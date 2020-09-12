@@ -2,4 +2,4 @@ Trend 1: The majority of players are male. The majority of players are aged 15-2
 
 Trend 2: Players in the age group of 20-24 spend the most money on the game (47% of total purchases). However, players in the age group 35-39 spend more per person/per purchase ($4.32 vs $4.76).
 
-Trend 3: The majority of purchases have a low price and no player seems to purchase a lot of items. The "biggest spender" has only purchased 5 items at a total of $18.96. The trend seems to be that players only buy one or two items the entire time they play the game, and those items are bought at a low cost. 
+Trend 3: The majority of purchases have a low price and no player seems to purchase a lot of items. The "biggest spender" has only purchased 5 items at a total of $18.96. The trend seems to be that players only buy one or two items the entire time they play the game, and those items are bought at a low cost.
